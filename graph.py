@@ -16,7 +16,7 @@ ax.set_title("Прямые y = kx + b")
 ax.grid(True)
 
 # --- Интерактивный режим ---
-plt.ion()
+
 fig.show()
 
 # --- Цикл ввода ---
