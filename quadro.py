@@ -23,7 +23,7 @@ ax.set_ylabel("y")
 ax.set_title("Параболы")
 ax.grid(True)
 fig.show()
-print('эта строчка только для Git!')
+print('Вторая строка для Git!')
 while True:
     print("Hello! This is a program to  solve quadratic equations.")
     print("Enter 'a' koefficient or 'q' for quit:",end="")
